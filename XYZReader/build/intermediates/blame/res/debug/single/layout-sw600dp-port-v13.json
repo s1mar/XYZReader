@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\JAPC\\Desktop\\xyzUdac\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\activity_article_list.xml",
+        "source": "C:\\Users\\JAPC\\Desktop\\xyzUdac\\XYZReader\\src\\main\\res\\layout-sw600dp-port\\activity_article_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAPC\\Desktop\\xyzUdac\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\list_item_article.xml",
+        "source": "C:\\Users\\JAPC\\Desktop\\xyzUdac\\XYZReader\\src\\main\\res\\layout-sw600dp-port\\list_item_article.xml"
+    }
+]
